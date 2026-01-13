@@ -1,3 +1,6 @@
+![image](img/ai-coding-challenge.jpg)
+
+
 # AI Coding Challenges
 
 Think AI can't handle real programming challenges? 
@@ -32,3 +35,4 @@ Let's see what AI can actually do when put to the test.
 | Gears | [Source LinkedIn Comment](https://www.linkedin.com/feed/update/urn:li:activity:7416471591796150272?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7416471591796150272%2C7416474410137853952%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287416474410137853952%2Curn%3Ali%3Aactivity%3A7416471591796150272%29) | In Progress | [Gears Solution](https://github.com/JohnCrickett/gears) | 
 | Heartbeat Tracker | [Source Repo](https://github.com/maierru/heartbeat-tracker/issues/1) [Source LinkedIn Comment](https://www.linkedin.com/feed/update/urn:li:activity:7416471591796150272?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7416471591796150272%2C7416521786676363264%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287416521786676363264%2Curn%3Ali%3Aactivity%3A7416471591796150272%29) | Challenge Rejected - Challenger was unable to provide requirements or acceptance criteria | - |
 | Scheduler | [Source LinkedIn Comment](https://www.linkedin.com/feed/update/urn:li:activity:7416471591796150272?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7416471591796150272%2C7416481419515985920%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287416481419515985920%2Curn%3Ali%3Aactivity%3A7416471591796150272%29) | Challenge Rejected - Challenger was unable to provide requirements or acceptance criteria | - |
+| Spotify To TikTok Sounds | [Source Repo](https://github.com/BrianJenney/ai-challenge/blob/main/README.md) | In Review | |
